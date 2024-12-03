@@ -31,8 +31,9 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 /* write all the steps invloved */
 
 **PROGRAM**
-![image](https://github.com/user-attachments/assets/c2475907-0ea8-4d36-8143-abfcd0841bdd)
 
+
+![image](https://github.com/user-attachments/assets/164b0d31-40d8-4386-b073-5eaabcb8345a)
 
 
 /* 
